@@ -736,6 +736,7 @@
 					};
 					431CE7761F98564200255374 = {
 						CreatedOnToolsVersion = 9.0;
+						DevelopmentTeam = TKNL7N2437;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Manual;
 					};
@@ -1091,6 +1092,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = TKNL7N2437;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = RileyLinkBLEKitTests/Info.plist;
@@ -1125,6 +1127,7 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = TKNL7N2437;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = RileyLinkBLEKitTests/Info.plist;
